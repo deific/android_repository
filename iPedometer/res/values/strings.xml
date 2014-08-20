@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iPedometer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_text_step">步数：</string>
+    <string name="main_text_init">正在检测...</string>
+	<string name="main_btn_start">开始</string>
+	<string name="main_btn_pause_1">暂停</string>
+	<string name="main_btn_pause_2">恢复</string>
+	<string name="main_btn_stop">停止</string>
+	<string name="main_btn_reset">重置</string>
+</resources>
